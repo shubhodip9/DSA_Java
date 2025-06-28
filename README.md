@@ -1,19 +1,20 @@
 # DSA using Java 
 
 This repository contains Java programs for learning and practising basic, intermediate and advanced data structures and algorithms.
+
 Along with that, there is an entire structured workflow to demonstrate how to:
-    - Make a folder for this project using the Command Prompt
-    - Create JAVA files for individual pieces of code using Command Prompt
-    - Open these JAVA files in VSCode using Command Prompt
-    - Run them in the VSCode Terminal
-    - Add 'git' to the folder
-    - Add individual files (Main.java, BubbleSort2.java etc.) to the main branch with commit messages
-    - Create a separate 'branch'
-    - Add file(s) to the separate 'branch' with commit messages
-    - Moving back to the 'main branch'
-    - Checking which 'git branch' command is currently at
-    - Create README.md file for the whole repository
-    - Make changes to the README.md file and push the file with commit messages 
+- Make a folder for this project using the Command Prompt
+- Create JAVA files for individual pieces of code using Command Prompt
+- Open these JAVA files in VSCode using Command Prompt
+- Run them in the VSCode Terminal
+- Add 'git' to the folder
+- Add individual files (Main.java, BubbleSort2.java etc.) to the main branch with commit messages
+- Create a separate 'branch'
+- Add file(s) to the separate 'branch' with commit messages
+- Moving back to the 'main branch'
+- Checking which 'git branch' command is currently at
+- Create README.md file for the whole repository
+- Make changes to the README.md file and push the file with commit messages 
 
 ## Command Line prompts
 
