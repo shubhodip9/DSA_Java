@@ -16,6 +16,25 @@ Along with that, there is an entire structured workflow to demonstrate how to:
 - Create README.md file for the whole repository
 - Make changes to the README.md file and push the file with commit messages 
 
+## Important Git Commands:
+
+- git init                             : Initializes a new Git repository in the current folder
+- git status                           : Shows the current state of the working directory and staging area, helpful to check changes
+- git add <filename>                   : Stages specific file(s) for the next commit. Example: git add README.md
+- git add .                            : Stages all changed files (new, modified, deleted) in the directory for commit
+- git commit -m "message"              : Commits the staged changes with a meaningful message. Example: git commit -m "Updated README"
+- git log                              : Displays the commit history (author, date, commit hash, and message)
+- git remote add origin <URL>          : Links your local repo to a remote GitHub repo (first-time setup)
+- git remote -v                        : Shows the current remote URL(s) linked to your repo
+- git push -u origin main              : Pushes commits to the main branch on GitHub and sets upstream tracking
+- git push                             : Pushes local commits to the corresponding branch on the remote repo
+- git branch                           : Lists all local branches and highlights the current branch
+- git checkout -b branch <branch-name> : Creates a new branch and switches to it immediately
+- git switch <branch-name>             : Switches between branches (modern alternative to checkout)
+- git diff                             : Shows the differences between modified files and the last commit or between branches
+- git clone <repo-url>                 : Clones a remote repository to your local machine
+- git pull                             : Fetches and merges changes from the remote repository to the current branch
+
 ## Command Line prompts
 
 ### Navigating to the current folder: 
